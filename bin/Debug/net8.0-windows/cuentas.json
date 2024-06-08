@@ -1,0 +1,60 @@
+[
+  {
+    "Numero_Cuenta": 123,
+    "Saldo": 0.0,
+    "Limite": 20000,
+    "Status": true,
+    "TarjetasAsociadas": [
+      {
+        "Numero_Tarjeta": 123,
+        "NIP": 1234,
+        "Fecha_Vencimiento": "2029-06-07T16:16:05.4034945-06:00",
+        "Status": true
+      }
+    ],
+    "Propietario": {
+      "NumeroCliente": 1,
+      "Nombre": "oscar",
+      "FechaNacimiento": "2024-05-30T12:06:44",
+      "FechaCorte": "2024-05-30T12:06:44",
+      "Telefono": 7291428946,
+      "Tarjetas": [
+        {
+          "Numero_Tarjeta": 123,
+          "NIP": 1234,
+          "Fecha_Vencimiento": "2029-06-07T16:16:05.4034945-06:00",
+          "Status": true
+        }
+      ]
+    }
+  },
+  {
+    "Numero_Cuenta": 789,
+    "Saldo": 0.0,
+    "Limite": 20000,
+    "Status": true,
+    "TarjetasAsociadas": [
+      {
+        "Numero_Tarjeta": 789,
+        "NIP": 6789,
+        "Fecha_Vencimiento": "2029-06-07T16:16:32.855655-06:00",
+        "Status": true
+      }
+    ],
+    "Propietario": {
+      "NumeroCliente": 2,
+      "Nombre": "daniel",
+      "FechaNacimiento": "2024-05-30T12:06:44",
+      "FechaCorte": "2024-05-30T12:06:44",
+      "Telefono": 5561731809,
+      "Tarjetas": [
+        {
+          "Numero_Tarjeta": 789,
+          "NIP": 6789,
+          "Fecha_Vencimiento": "2029-06-07T16:16:32.855655-06:00",
+          "Status": true
+        }
+      ]
+    }
+  }
+]

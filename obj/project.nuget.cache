@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "psejPLzdbeF7kVQsXGnBfI8CuqG+tmd+D4ksSlCprrY5PnscGgevTUyB2wTI5BWspiaYbNJ8LZ2lSq46khhAOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oscar\\source\\repos\\CajeroATMc\\Cajero\\Cajero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
