@@ -1,13 +1,13 @@
 [
   {
     "Numero_Cuenta": 123,
-    "Saldo": 0.0,
+    "Saldo": 264.0,
     "Limite": 20000,
     "Status": true,
     "TarjetasAsociadas": [
       {
         "Numero_Tarjeta": 123,
-        "NIP": 1234,
+        "NIP": 4789,
         "Fecha_Vencimiento": "2029-06-07T16:16:05.4034945-06:00",
         "Status": true
       }
